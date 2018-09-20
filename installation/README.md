@@ -28,7 +28,7 @@ Steps for getting up and running,
 
     4.2 Run
     ```
-    cd task_1
+    cd installation/
     pip3 install -r requirements.txt
     ```
 
