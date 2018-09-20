@@ -7,3 +7,14 @@
 
 **Программа лижит в файле**
 ```sum.py```
+
+**Исходный код**
+```python3
+def sum(a, b):
+    result = a - b
+
+    print(result)
+
+
+sum(4, 2)
+```
