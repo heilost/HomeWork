@@ -25,6 +25,7 @@ Steps for getting up and running,
 4. Install project dependencies
 
     4.1 Install pip
+    
         See https://pip.pypa.io/en/stable/quickstart/
 
     4.2 Run
