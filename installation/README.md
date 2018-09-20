@@ -35,7 +35,7 @@ Steps for getting up and running,
 5. Run the python script
 
     ```sh
-    python3 index.py
+    python3 helloworld.py
     ```
 
 6. See the result
