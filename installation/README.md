@@ -1,6 +1,6 @@
 # Python installation
 
-**This example shows how to install python and run the ```helloworld.py``` script**.
+This example shows how to install python and run the ```helloworld.py``` script.
 
 ## Getting started
 
