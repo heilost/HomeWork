@@ -40,4 +40,7 @@ Steps for getting up and running,
     python3 index.py
     ```
 
-    See the result
+6. See the result
+    ```
+    Hello World!
+    ```
