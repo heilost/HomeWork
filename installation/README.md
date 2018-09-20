@@ -1,8 +1,6 @@
-# Task №1
+# Python installation
 
-Simple task.
-
-**This example shows an example of creating a Task**.
+**This example shows how to install python and run the ```helloworld.py``` script**.
 
 ## Getting started
 
