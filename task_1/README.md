@@ -26,13 +26,13 @@ Steps for getting up and running,
 
     4.1 Install pip
 
-        See https://pip.pypa.io/en/stable/quickstart/
+    See https://pip.pypa.io/en/stable/quickstart/
 
     4.2 Run
-        ```
-        cd task_1
-        pip3 install -r requirements.txt
-        ```
+    ```
+    cd task_1
+    pip3 install -r requirements.txt
+    ```
 
 5. Run the python script
 
