@@ -1,5 +1,5 @@
 def sum(a, b):
-    result = a - b
+    result = a + b
 
     print(result)
 
